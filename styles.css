@@ -1,6 +1,7 @@
 /*Elements applying to all content on webpage*/
 body {
     font-family: Roboto;
+    margin-top: 0px;
 }
 /*Elements applying to content within hero section*/
 .hero{
