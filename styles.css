@@ -4,3 +4,8 @@ body {
 .hero{
     background-color: #1F2937;
 }
+.navbar{
+    list-style-type: none;
+    display: flex;
+    justify-content: right;
+}
