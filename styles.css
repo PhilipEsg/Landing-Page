@@ -14,3 +14,8 @@ body {
         justify-content: right;
     }
 }
+
+.hero #logo{
+    font-size: 24px;
+    color: #F9FAF8;
+}
