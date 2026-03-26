@@ -118,7 +118,12 @@ header .navbar li a{
     font-size: 36px;
     font-weight: 300;
 }
-
+/*----------------------------------------------Elements applying to call to action section ---------------------------------------*/
+.call-to-action{
+    background-color: #3882f6;
+    display: flex;
+}
+/*-----------------------------------------------Elements applying to footer section-----------------------------------------------*/
 footer{
     background-color: #1F2937;
 }
