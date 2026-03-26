@@ -96,7 +96,17 @@ header .navbar li a{
     margin: 50px 50px;
 }
 
-/*-----------------------------------------------Elements applying to footer section-------------------------------------------*/
+/*-----------------------------------------------Elements applying to testimonial section-------------------------------------------*/
+.quote{
+    background-color: #E5E7EB;
+}
+
+.quote #testimonial{
+    color: #1E2937;
+    font-size: 36px;
+    font-weight: 300;
+}
+
 footer{
     background-color: #1F2937;
 }
