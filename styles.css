@@ -76,6 +76,11 @@ header .navbar li a{
     text-align: center;
 }
 
+.features {
+    display: flex;
+    justify-content: center;
+}
+
 /*Elements applying to footer section*/
 footer{
     background-color: #1F2937;
