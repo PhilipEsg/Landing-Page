@@ -124,6 +124,9 @@ header .navbar li a{
     display: flex;
     margin: 50px;
 }
+#sign-up{
+    color: white;
+}
 /*-----------------------------------------------Elements applying to footer section-----------------------------------------------*/
 footer{
     background-color: #1F2937;
