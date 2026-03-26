@@ -2,30 +2,36 @@
 body {
     font-family: Roboto;
 }
-/*Elements applying to content within hero section*/
-.hero{
+
+header{
     display: flex;
     background-color: #1F2937;
-    margin-top: 0;
-    /*Elements applying only to the navbar*/
-    & .navbar{
-        list-style-type: none;
-        margin-top: 0;
-        display: flex;
-    }
 }
 /*Elements applying to logo of webpage*/
-.hero #logo{
+header #logo{
     font-size: 24px;
     color: #F9FAF8;
 }
+/*Elements applying only to the navbar*/
+header .navbar{
+    list-style-type: none;
+    margin-top: 0;
+    display: flex;
+}
 /*Elements applying to navbar links*/
-.hero .navbar li a{
+header .navbar li a{
     font-size: 18px;
     color: #E5E7EB;
     text-align: center;
     text-decoration: none;
     padding: 14px 16px;
+}
+
+/*Elements applying to content within hero section*/
+.hero{
+    display: flex;
+    background-color: #1F2937;
+    margin-top: 0;
 }
 /*Elements applying to webpage tagline*/
 .hero #tagline{
