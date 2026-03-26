@@ -47,6 +47,7 @@ body {
 .hero .image p{
     color: #E5E7EB;
     text-align: center;
+    padding: 15px 10px;
 }
 /*Elements applying to footer section*/
 footer{
