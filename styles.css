@@ -11,6 +11,7 @@ header{
 /*Elements applying to logo of webpage*/
 header #logo{
     font-size: 24px;
+    align-self: center;
     color: #F9FAF8;
 }
 /*Elements applying only to the navbar*/
