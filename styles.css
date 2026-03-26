@@ -20,7 +20,7 @@ body {
     color: #F9FAF8;
 }
 /*Elements applying to navbar links*/
-.hero li{
+.hero .navbar li a{
     font-size: 18px;
     color: #E5E7EB;
     text-align: center;
