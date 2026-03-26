@@ -66,6 +66,16 @@ header .navbar li a{
     text-align: center;
     padding: 15px 10px;
 }
+
+/*Elements applying to information section*/
+/*Elements applying only to random information header*/
+#random_info h3{
+    font-size: 36px;
+    color: #1F2937;
+    font-weight: 900;
+    text-align: center;
+}
+
 /*Elements applying to footer section*/
 footer{
     background-color: #1F2937;
