@@ -38,6 +38,15 @@ body {
     font-size: 18px;
     color: #E5E7EB;
 }
+/*Elements applying to image class in hero section*/
+.hero .image{
+    background-color: gray;
+}
+/*Elements applying to text in image class*/
+.hero .image p{
+    color: #E5E7EB;
+    text-align: center;
+}
 /*Elements applying to footer section*/
 footer{
     background-color: #1F2937;
