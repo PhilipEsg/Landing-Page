@@ -44,6 +44,7 @@ header .navbar li a{
     display: flex;
     background-color: #1F2937;
     margin-top: 0;
+    justify-content: center;
 }
 .hero .hero-left{
     padding: 50px;
