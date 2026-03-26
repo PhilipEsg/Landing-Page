@@ -41,6 +41,7 @@ body {
 /*Elements applying to image class in hero section*/
 .hero .image{
     background-color: gray;
+    margin: 15px 10px;
 }
 /*Elements applying to text in image class*/
 .hero .image p{
