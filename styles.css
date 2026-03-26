@@ -1,11 +1,11 @@
 /*Elements applying to all content on webpage*/
 body {
     font-family: Roboto;
-    padding-top: 0px;
 }
 /*Elements applying to content within hero section*/
 .hero{
     background-color: #1F2937;
+    padding-top: 0;
     /*Elements applying only to the navbar*/
     & .navbar{
         list-style-type: none;
