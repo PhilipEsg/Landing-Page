@@ -44,6 +44,9 @@ header .navbar li a{
     background-color: #1F2937;
     margin-top: 0;
 }
+.hero .hero-left{
+    padding: 50px;
+}
 /*Elements applying to webpage tagline*/
 .hero #tagline{
     font-size: 48px;
