@@ -1,6 +1,7 @@
 /*Elements applying to all content on webpage*/
 body {
     font-family: Roboto;
+    margin: 0px;
 }
 
 button{
@@ -54,7 +55,7 @@ header .navbar li a{
     font-weight: 900;
     width: 500px;
     height: 50px;
-    margin: 50px;
+    margin: 50px 50px 50px 0px;
 }
 /*Elements applying to webpage description in hero section*/
 .hero #description{
