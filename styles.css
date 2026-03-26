@@ -3,6 +3,15 @@ body {
     font-family: Roboto;
 }
 
+button{
+    background-color: #3882f6;
+    color: #F9FAF8;
+    border: none;
+    cursor: pointer;
+    padding: 12px;
+
+}
+
 header{
     display: flex;
     justify-content: space-between;
