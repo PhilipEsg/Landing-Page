@@ -99,13 +99,13 @@ header .navbar li a{
 /*-----------------------------------------------Elements applying to testimonial section-------------------------------------------*/
 .quote{
     background-color: #E5E7EB;
+    padding: 100px;
 }
 
 .quote #testimonial{
     color: #1E2937;
     font-size: 36px;
     font-weight: 300;
-    padding: 100px;
 }
 
 footer{
