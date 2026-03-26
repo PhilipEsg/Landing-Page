@@ -84,7 +84,7 @@ header .navbar li a{
 .festures .div{
     justify-items: center;
 }
-.features .div .illustration{
+.features .illustration{
     border-color: #3882f6;
     border-style: solid;
     margin: 10px;
@@ -92,7 +92,7 @@ header .navbar li a{
     height: 200px;
 }
 
-.features .div .caption{
+.features .caption{
     margin: 50px 50px;
 }
 
