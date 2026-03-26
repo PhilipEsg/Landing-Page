@@ -67,7 +67,7 @@ header .navbar li a{
     padding: 15px 10px;
 }
 
-/*Elements applying to information section*/
+/*----------------------------------------------Elements applying to information section---------------------------------------*/
 /*Elements applying only to random information header*/
 #random_info h3{
     font-size: 36px;
@@ -81,7 +81,11 @@ header .navbar li a{
     justify-content: center;
 }
 
-/*Elements applying to footer section*/
+.features .illustration{
+    border-color: #3882f6;
+}
+
+/*-----------------------------------------------Elements applying to footer section-------------------------------------------*/
 footer{
     background-color: #1F2937;
 }
