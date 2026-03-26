@@ -122,6 +122,7 @@ header .navbar li a{
 .call-to-action{
     background-color: #3882f6;
     display: flex;
+    margin: 50px;
 }
 /*-----------------------------------------------Elements applying to footer section-----------------------------------------------*/
 footer{
