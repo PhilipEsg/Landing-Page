@@ -84,9 +84,13 @@ header .navbar li a{
 .features .illustration{
     border-color: #3882f6;
     border-style: solid;
-    margin: 15px;
-    width: 10px;
-    height: 10px;
+    margin: 300px;
+    width: 300px;
+    height: 300px;
+}
+
+.features .caption{
+    margin: 100px 50px;
 }
 
 /*-----------------------------------------------Elements applying to footer section-------------------------------------------*/
