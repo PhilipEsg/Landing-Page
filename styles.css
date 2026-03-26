@@ -14,33 +14,34 @@ body {
         justify-content: right;
     }
 }
-
+/*Elements applying to logo of webpage*/
 .hero #logo{
     font-size: 24px;
     color: #F9FAF8;
 }
-
+/*Elements applying to navbar links*/
 .hero li{
     font-size: 18px;
     color: #E5E7EB;
     text-align: center;
+    display: flex;
 }
-
+/*Elements applying to webpage tagline*/
 .hero #tagline{
     font-size: 48px;
     color: #F9FAF8;
     font-weight: 900;
 }
-
+/*Elements applying to webpage description in hero section*/
 .hero #description{
     font-size: 18px;
     color: #E5E7EB;
 }
-
+/*Elements applying to footer section*/
 footer{
     background-color: #1F2937;
 }
-
+/*Elements applying to the copyright text in footer section*/
 footer #copyright{
     text-align: center;
     font-size: 18px;
